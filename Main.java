@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         Book aBook = new Book();
         String aString = aBook.a;
-        
+        System.out.println(aString);
         //some stuff here
     }
 }
