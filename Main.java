@@ -7,6 +7,7 @@ public class Main {
         System.out.println(aString); // Prints out whatever is in object A
         //here I am adding new stuff to Dev2 to see the effects
         // I am adding a second set of notes for commit 2
+        // last comment for the push
         //some stuff here
     }
 }
